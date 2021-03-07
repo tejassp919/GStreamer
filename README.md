@@ -16,9 +16,9 @@ To begin with understanding gstreamer, let's first understand the [hello world](
   
    [Basic tutorial 8](https://gstreamer.freedesktop.org/documentation/tutorials/basic/short-cutting-the-pipeline.html?gi-language=c) will then explain us how we can import and eport data out of the gstreamer to any other file or application. It introuduces us with *appsrc* and *appsink* elements. *Appsrc* is usefull to inject data in middle of a gstreamer pipleine (say NLP program generated captions) which we probably didnt had in start of pipeline due to any reasons. *Appsink* will help us to export data (say audio to an NLP programme) out of the gstreamer to any other application of file.
    
-    [Basic tutorial 9](https://gstreamer.freedesktop.org/documentation/tutorials/basic/media-information-gathering.html?gi-language=c) is optional. It teaches us how to fetch information regarding a given URI before hand for making certian appropriate decisions if we wish to.
+   [Basic tutorial 9](https://gstreamer.freedesktop.org/documentation/tutorials/basic/media-information-gathering.html?gi-language=c) is optional. It teaches us how to fetch information regarding a given URI before hand for making certian appropriate decisions if we wish to.
     
-    [Basic tutorial 10](https://gstreamer.freedesktop.org/documentation/tutorials/basic/gstreamer-tools.html?gi-language=c) teaches us how to make a very basic pipeline through command line itself. Though not usefull in actual developement, might be usefull for testing.
+   [Basic tutorial 10](https://gstreamer.freedesktop.org/documentation/tutorials/basic/gstreamer-tools.html?gi-language=c) teaches us how to make a very basic pipeline through command line itself. Though not usefull in actual developement, might be usefull for testing.
     
-    [Basic tutorial 12](https://gstreamer.freedesktop.org/documentation/tutorials/basic/streaming.html?gi-language=c) help us to know how to we can manage buffering in gstreamer. Buffering expained in more detail over [here](https://gstreamer.freedesktop.org/documentation/application-development/advanced/buffering.html?gi-language=cgstreamer%20buufering)
+   [Basic tutorial 12](https://gstreamer.freedesktop.org/documentation/tutorials/basic/streaming.html?gi-language=c) help us to know how to we can manage buffering in gstreamer. Buffering expained in more detail over [here](https://gstreamer.freedesktop.org/documentation/application-development/advanced/buffering.html?gi-language=cgstreamer%20buufering)
    
